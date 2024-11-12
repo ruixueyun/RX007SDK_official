@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
    #s.source_files = '*.framework/Headers/*.{h,m,plist}'
       #s.source_files = '*.framework'
   
-  s.vendored_frameworks = '*.xcframework'
+  s.vendored_frameworks = '*.framework'
   
   # s.resource_bundles = {
   #   'RXSDK' => ['RXSDK/Assets/*.png']
