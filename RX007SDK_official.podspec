@@ -41,7 +41,7 @@ TODO: Add long description of the pod here.
   
   
   s.frameworks = 'CoreTelephony', 'SystemConfiguration', 'QuartzCore', 'CoreText', 'CoreGraphics', 'CFNetwork', 'CoreMotion'
-  s.libraries = 'libc++', 'libz'
+  s.libraries = 'c++', 'z'
   
   s.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 armv7 arm64' }
   
