@@ -1,0 +1,6 @@
+framework module ZZSevenSDKFramework {
+  umbrella header "ZZSevenSDKFramework.h"
+  export *
+
+  module * { export * }
+}
